@@ -8,7 +8,7 @@
 
 | קובץ | תוכן |
 |---|---|
-| `defect_analysis.ipynb` | המחברת המלאה (חלקים א–ה), כולל הגרפים, מדדי האימות והסיכום. אפשר לקרוא אותה ישירות ב-GitHub, עם כל הפלטים. |
+| `defect_analysis.ipynb` | המחברת המלאה (חלקים א–ה), כולל הגרפים, מדדי האימות והסיכום. אפשר לקרוא אותה ישירות ב-GitHub, עם כל הפלטים; אם התצוגה ב-GitHub לא נטענת: [צפייה ב-nbviewer](https://nbviewer.org/github/kobkob1234/defect-image-analysis/blob/main/defect_analysis.ipynb). |
 | `predictions.csv` | תחזית לכל אחת מ-72 תמונות המבחן: `image_id,predicted_defect,score` |
 | `requirements_suggested.txt` | החבילות הנדרשות להרצה |
 
