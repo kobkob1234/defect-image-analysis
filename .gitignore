@@ -1,0 +1,12 @@
+# Task data is not part of this repository (place it beside the notebook to re-run)
+train.csv
+test.csv
+sample_predictions.csv
+images/
+
+# Created by running the notebook
+results/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
